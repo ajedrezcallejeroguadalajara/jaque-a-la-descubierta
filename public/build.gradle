@@ -22,7 +22,7 @@ podcast {
         height = 3000
     }
     block = false
-    categories = 'GAMES_AND_HOBBIES'
+    categories = 'LEISURE_GAMES'
     explicit = false
 }
 
