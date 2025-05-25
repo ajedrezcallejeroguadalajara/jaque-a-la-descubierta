@@ -8,7 +8,7 @@ podcast {
     language = 'es'
     copyright = '&#169; 2025 Asociación Ajedrez Callejero'
     description = 'Programa de la Asociación de Ajedrez Callejero de Guadalajara. Entrevistas, noticias, historia, problemas ajedrecísticos y mucho más. Todos los lunes, de 19:30 a 20:30 en Radio Arrebato.'
-    author = "Asociación Ajedrez Callejero"
+    author = "Manuel Serrano y José Sánchez Company"
     type = 'EPISODIC'
     owner {
         name = "Asociación Ajedrez Callejero"
